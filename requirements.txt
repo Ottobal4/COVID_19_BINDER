@@ -1,0 +1,6 @@
+matplotlib
+pandas
+numpy
+json
+uk_covid19
+voila
